@@ -1,0 +1,17 @@
+{
+  "name": "reduxcounter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^18.7.0",
+    "nodejs": "0.0.0",
+    "redux": "^4.2.0"
+  }
+}
